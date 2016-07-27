@@ -149,7 +149,7 @@ Hack And Slash Tutorial Scripts<br />
 137. Unity3d Tutorial - Equipment Panel Part 2<br />
 138. Unity3d Tutorial - Equipment Panel Part 3<br />
  
-<b>NOT IMPLEMENTED</b>
+<b>NOT IMPLEMENTED</b><br />
 139. Unity3d Tutorial - Chest Time Destroy<br />
 140. Unity3d Tutorial - Weapon Meshes Part 1<br />
 141. Unity3d Tutorial - Weapon Meshes Part 2<br />
